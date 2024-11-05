@@ -10,5 +10,8 @@
     "@playwright/test": "1.39.0",
     "@types/node": "^20.8.6",
     "@zerostep/playwright": "../../packages/playwright"
+  },
+  "dependencies": {
+    "playwright-demo": "file:"
   }
 }

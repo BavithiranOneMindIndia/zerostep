@@ -11,5 +11,13 @@
   },
   "bugs": {
     "url": "https://github.com/zerostep-ai/zerostep/issues"
+  },
+  "dependencies": {
+    "zerostep-monorepo": "file:"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0",
+    "@zerostep/playwright": "^0.1.5"
   }
 }

@@ -224,3 +224,12 @@ Have questions or suggestions? [Join our Discord](https://discord.gg/BcDmfWqSGe)
     />
   </picture>
 </div>
+
+
+## Difficulties while implementing
+    - Error "Cannot find module '@playwright/test' or its corresponding type declarations."
+      - npm install @playwright/test --save-dev
+    - Error "Cannot find module '@zerostep/playwright' or its corresponding type declarations."
+      - npm install @zerostep/playwright --save-dev
+ 
+
